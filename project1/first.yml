@@ -1,0 +1,8 @@
+---
+-
+    name: creating user
+    hosts: all
+    tasks:
+        - name: run command
+          sudo 
+   
