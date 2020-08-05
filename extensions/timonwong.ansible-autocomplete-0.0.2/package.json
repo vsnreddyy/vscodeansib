@@ -1,0 +1,54 @@
+{
+	"name": "ansible-autocomplete",
+	"displayName": "ansible-autocomplete",
+	"description": "Ansible autocompletion",
+	"keywords": [
+		"Ansible",
+		"Snippets"
+	],
+	"version": "0.0.2",
+	"publisher": "timonwong",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Languages"
+	],
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/timonwong/vscode-ansible-autocomplete"
+	},
+	"bugs": {
+		"url": "https://github.com/timonwong/vscode-ansible-autocomplete/issues"
+	},
+	"activationEvents": [
+		"onLanguage:ansible",
+		"onLanguage:yaml"
+	],
+	"main": "./out/src/extension",
+	"contributes": {},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"@types/fuzzaldrin-plus": "0.0.1",
+		"@types/mocha": "^2.2.32",
+		"@types/node": "^6.0.40",
+		"mocha": "^2.3.3",
+		"tslint": "^3.15.1",
+		"typescript": "^2.0.3",
+		"vscode": "^1.0.0"
+	},
+	"dependencies": {
+		"fuzzaldrin-plus": "^0.3.1"
+	},
+	"__metadata": {
+		"id": "84fb492e-7108-4691-88d0-5fd29513a261",
+		"publisherId": "04757770-dd50-443e-aae4-e1c7cf9c24f5",
+		"publisherDisplayName": "Timon Wong"
+	}
+}

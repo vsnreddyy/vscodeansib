@@ -1,0 +1,21 @@
+[2020-08-02 07:35:31.595] [exthost] [info] extension host started
+[2020-08-02 07:35:32.419] [exthost] [info] ExtensionService#_doActivateExtension timonwong.ansible-autocomplete {"startup":false,"extensionId":{"value":"timonwong.ansible-autocomplete","_lower":"timonwong.ansible-autocomplete"},"activationEvent":"onLanguage:yaml"}
+[2020-08-02 07:35:32.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/extensions/timonwong.ansible-autocomplete-0.0.2/out/src/extension
+[2020-08-02 07:35:32.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-02 07:35:32.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/debug-auto-launch/dist/extension
+[2020-08-02 07:35:32.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-02 07:35:32.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/emmet/dist/extension
+[2020-08-02 07:35:32.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-02 07:35:32.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/git/dist/main
+[2020-08-02 07:35:32.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-08-02 07:35:32.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/github-authentication/dist/extension.js
+[2020-08-02 07:35:32.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-02 07:35:32.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/merge-conflict/dist/mergeConflictMain
+[2020-08-02 07:35:32.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-08-02 07:35:32.578] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/microsoft-authentication/dist/extension.js
+[2020-08-02 07:35:32.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-02 07:35:32.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/search-result/dist/extension.js
+[2020-08-02 07:35:33.656] [exthost] [info] Extension 'timonwong.ansible-autocomplete' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-08-02 07:35:33.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-02 07:35:33.856] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/github/dist/extension.js
+[2020-08-02 07:35:33.949] [exthost] [info] eager extensions activated

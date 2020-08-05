@@ -1,0 +1,18 @@
+[2020-08-01 11:29:40.558] [exthost] [info] extension host started
+[2020-08-01 11:29:40.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-01 11:29:40.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/debug-auto-launch/dist/extension
+[2020-08-01 11:29:40.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-01 11:29:40.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/emmet/dist/extension
+[2020-08-01 11:29:40.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-01 11:29:40.774] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/git/dist/main
+[2020-08-01 11:29:40.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-08-01 11:29:40.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/github-authentication/dist/extension.js
+[2020-08-01 11:29:40.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-01 11:29:40.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/merge-conflict/dist/mergeConflictMain
+[2020-08-01 11:29:40.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-08-01 11:29:40.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/microsoft-authentication/dist/extension.js
+[2020-08-01 11:29:40.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-01 11:29:40.891] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/search-result/dist/extension.js
+[2020-08-01 11:29:41.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-01 11:29:41.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/91899dcef7b8110878ea59626991a18c8a6a1b3e/extensions/github/dist/extension.js
+[2020-08-01 11:29:41.700] [exthost] [info] eager extensions activated

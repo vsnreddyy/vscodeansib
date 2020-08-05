@@ -1,0 +1,39 @@
+[2020-08-02 06:47:31.523] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-08-02 06:47:31.523] [remoteagent] [info] Extension host agent started.
+[2020-08-02 06:47:32.315] [remoteagent] [error] [127.0.0.1][f5e1b227][ManagementConnection] Unknown reconnection token.
+[2020-08-02 06:47:32.345] [remoteagent] [error] [127.0.0.1][a1d1b9f4][ExtensionHostConnection] Unknown reconnection token.
+[2020-08-02 06:50:08.549] [remoteagent] [info] [127.0.0.1][95797c9f][ManagementConnection] New connection established.
+[2020-08-02 06:50:08.552] [remoteagent] [info] [127.0.0.1][22170eba][ExtensionHostConnection] New connection established.
+[2020-08-02 06:50:08.656] [remoteagent] [info] [127.0.0.1][22170eba][ExtensionHostConnection] <3044> Launched Extension Host Process.
+[2020-08-02 07:35:12.686] [remoteagent] [info] Installing extension: timonwong.ansible-autocomplete
+[2020-08-02 07:35:13.252] [remoteagent] [info] Downloaded extension: timonwong.ansible-autocomplete /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/timonwong.ansible-autocomplete-0.0.2
+[2020-08-02 07:35:13.334] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.timonwong.ansible-autocomplete-0.0.2: timonwong.ansible-autocomplete
+[2020-08-02 07:35:13.335] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/timonwong.ansible-autocomplete-0.0.2
+[2020-08-02 07:35:13.337] [remoteagent] [info] Installation completed. timonwong.ansible-autocomplete
+[2020-08-02 07:35:13.342] [remoteagent] [info] Extensions installed successfully: timonwong.ansible-autocomplete
+[2020-08-02 07:35:21.047] [remoteagent] [info] [127.0.0.1][95797c9f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-08-02 07:35:22.088] [remoteagent] [info] [127.0.0.1][22170eba][ExtensionHostConnection] <3044> Extension Host Process exited with code: 0, signal: null.
+[2020-08-02 07:35:22.089] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-08-02 07:35:25.201] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-08-02 07:35:25.201] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-08-02 07:35:25.488] [remoteagent] [info] [127.0.0.1][9afaf06e][ExtensionHostConnection] New connection established.
+[2020-08-02 07:35:25.488] [remoteagent] [info] [127.0.0.1][f1541ba3][ManagementConnection] New connection established.
+[2020-08-02 07:35:25.491] [remoteagent] [info] [127.0.0.1][9afaf06e][ExtensionHostConnection] <3322> Launched Extension Host Process.
+[2020-08-02 07:40:25.206] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-08-02 08:05:37.557] [remoteagent] [info] [127.0.0.1][f1541ba3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-08-02 08:05:53.974] [remoteagent] [info] [127.0.0.1][f1541ba3][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-08-02 08:05:53.977] [remoteagent] [info] [127.0.0.1][9afaf06e][ExtensionHostConnection] The client has reconnected.
+[2020-08-02 08:05:53.987] [remoteagent] [info] [127.0.0.1][f1541ba3][ManagementConnection] The client has reconnected.
+[2020-08-02 10:12:45.285] [remoteagent] [info] [127.0.0.1][f1541ba3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-08-02 13:12:39.883] [remoteagent] [info] [127.0.0.1][9afaf06e][ExtensionHostConnection] <3322> Extension Host Process exited with code: 0, signal: null.
+[2020-08-02 13:12:39.884] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-08-02 13:12:45.287] [remoteagent] [info] [127.0.0.1][f1541ba3][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
